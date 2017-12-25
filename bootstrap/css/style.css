@@ -1,0 +1,9 @@
+.navbar {
+	border-radius: 0;
+}
+.navbar-default {
+	background: maroon;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: red;
+}
